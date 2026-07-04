@@ -1,0 +1,2 @@
+# guidelines
+Total.js guidelines
