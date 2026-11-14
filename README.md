@@ -1,3 +1,11 @@
+<p align="center"><img src="https://raw.githubusercontent.com/totaljs-es/toto/main/assets/brand/favicon-192.png" width="128" height="128" alt="Toto, the fox of Spanish Total.js" /></p>
+
+<h1 align="center">Total.js guidelines</h1>
+
+<p align="center">
+  <a href="https://www.totaljs.com"><img src="https://img.shields.io/badge/built%20with-Total.js%205-f26d21" alt="Built with Total.js 5" /></a>
+</p>
+
 __Topics__:
 
 - [JavaScript Style](#)
